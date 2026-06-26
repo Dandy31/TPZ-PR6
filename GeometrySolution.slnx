@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GeometryConsole/GeometryConsole.csproj" />
+  <Project Path="GeometryLib.Tests/GeometryLib.Tests.csproj" />
+  <Project Path="GeometryLib/GeometryLib.csproj" />
+</Solution>
